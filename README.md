@@ -1,5 +1,7 @@
 # yolov5-aws-lambda
 
+![zidane](assets/predicted.jpg)
+
 This repository is the sample for YOLOv5 on AWS lambda with OpenCV.
 
 # Prerequisite
