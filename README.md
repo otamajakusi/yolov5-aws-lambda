@@ -4,6 +4,8 @@
 
 This repository is the sample for YOLOv5 on AWS lambda with OpenCV.
 
+See [this](https://i7y.org/en/how-to-use-yolov5-on-aws-lambda/) blog for more details.
+
 # Prerequisite
 
 - AWS Account
